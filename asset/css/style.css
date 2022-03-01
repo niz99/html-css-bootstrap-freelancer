@@ -9,3 +9,18 @@
 .line{
     height: 1px;
 }
+
+input{
+    border: 0;
+}
+
+textarea{
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+}
+
+.btn-success{
+    color: #fff;
+    background-color: #1abc9c !important;
+    border: #1abc9c !important;
+}
